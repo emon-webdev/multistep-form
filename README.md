@@ -42,7 +42,7 @@ multistep-form using javaScript
     </style>
 </head>
 <body>
-    <div class="multistep-contact-form">
+      <div class="multistep-contact-form">
         <form id="contactForm" action="submit-form.php" method="POST">
             <fieldset class="step">
                 <div class="mb-3">
@@ -96,7 +96,6 @@ multistep-form using javaScript
             </fieldset>
         </form>
     </div>
-
     <!-- Add your Bootstrap modal code here -->
     <div class="modal" id="successModal" tabindex="-1" role="dialog">
         <div class="modal-dialog" role="document">
